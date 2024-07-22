@@ -1,0 +1,148 @@
+
+header{
+    background-color:white;
+
+}
+.header{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.logo{
+    width: 7vw;
+    margin-left: 30px;
+    
+}
+.header input{
+    margin-left: 41px;
+  height: 3vh;
+  width: 35vw;
+  margin-top: 7px;
+  border: 2px solid black;
+  border-radius: 3px;
+  background-color: rgb(245, 247, 252);
+
+}
+.login{
+    width: 2vw;
+    margin-left: 80px;
+    height: 3.5vh;
+    margin-top: 8px;
+}
+.lo{
+    font-size: 1.25rem;
+    margin-left: 7px;
+    margin-top: 9px;
+}
+.car{
+    width: 1.25vw;
+  margin-left: 80px;
+  height: 4vh;
+  margin-top: 8px;
+}
+.sell{ 
+    width: 3vw;
+    margin-left: 80px;
+    height: 3.5vh;
+    margin-top: 9px;
+
+}
+.sec1{
+    margin: 20px;
+    display: flex;
+}
+.box{
+    margin: 30px;
+}
+.offer{
+    width: 5vw;
+}
+.mobile{
+    margin-top: 17px;
+}
+.mar{
+    margin-top: 5px;
+}
+.TV{
+    margin-top: 17px;
+}
+.he{
+    height: 11vh;
+}
+.Fu{
+    margin-top: 20px;
+}
+.imageslider{
+    width: 95vw;
+  background-image: url("man-8811973_1920.png");
+  height: 33vh;
+  margin: 10px;
+  animation: ChangeImage 20s linear infinite;
+
+  background-size: 100% 100%;
+}
+@keyframes ChangeImage {
+    0%{
+        background-image: url("pexels-philip-lindvall-300724-1120275.jpg");
+    }
+    25%{
+        background-image: url("man-8811973_1920.png");
+    }
+        50%{
+            background-image: url("image.jpg");
+        }
+        75%{
+            background-image: url("pexels-philip-lindvall-300724-1120275.jpg");
+        }
+        100%{
+            background-image: url("image.jpg");
+        }
+    }
+    .sec3{
+        margin: 20px;
+    }
+    .heading{
+        margin: 20px;
+        font-size: 1.5rem;
+    }
+    .slide{
+        margin-left: 30px;
+        display: flex;
+    }
+    .boxes{ display: flex;
+        flex-direction: column;
+        border: 1px soid black;
+        margin: 10px;
+    }
+    .poco{
+        width: 11vw;
+    }
+    .poc{
+        text-align: center;
+    }
+    .oppo {
+        width: 7vw;
+        height: 24vh;
+    }
+    .margi{
+        margin: 15px;
+    }
+    footer{
+        background-color: black;
+        color: white;
+    }
+    .footer{
+        display: flex;
+    }
+    .about{
+        margin: 20px;
+        margin-left: 90px;
+    }
+    .about ul li{
+        list-style: none;
+    }
+    .copy{
+        text-align: center;
+    }
+

@@ -1,0 +1,107 @@
+@media only screen and (max-width:800px) {
+    body{
+.logo{
+    width: 19vw;
+    margin-left: 5px;
+}
+ .header input{
+    margin-left: 21px;
+  height: 3vh;
+  width: 54vw;
+  margin-top: 7px;
+  border: 2px solid black;
+  border-radius: 3px;
+  background-color: rgb(245, 247, 252);
+}
+.login{
+    width: 4vw;
+  margin-left: 25px;
+  height: 3.5vh;
+  margin-top: 8px;
+}
+.lo{
+    margin-left: 2px;
+  margin-top: 7px;
+  font-size: 1rem;
+}
+.car{
+    width: 3.25vw;
+  margin-left: 21px;
+  height: 4vh;
+  margin-top: 8px;
+}
+.sell{
+    width: 6vw;
+  margin-left: 25px;
+  height: 3.5vh;
+  margin-top: 9px;
+}
+.sec1{
+    margin: -8px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.box{
+    margin: 18px;
+}
+.offer{
+    width: 15vw;
+}
+.top{
+    margin-top: 8px;
+}
+.mobile{
+    margin-top: -4px;
+}
+.imageslider{
+    margin: 0;
+}
+.sec3{
+    margin: -12px;
+}
+.heading{
+    margin: 19px;
+    font-size: 1rem;
+}
+.slide{
+    display: flex;
+    flex-wrap: wrap;
+}
+.boxes {
+    display: flex;
+    flex-direction: column;
+    border: 1px soid black;
+    margin: 7px;
+}
+.poco{
+    width: 11vw;
+}
+.poc{
+    text-align: center;
+  font-size: 0.7rem;
+}
+.oppo{
+    width: 11vw;
+  height: 8vh;
+}
+.margin-left{
+    margin-left: 14px;
+}
+.ma{
+    margin: 0;}
+ }
+ .marg{
+    margin: 4px;
+    margin-left: 19px;
+ }
+ .footer{
+display: flex;
+
+ }
+ .about{
+    margin: -6px;
+ }
+
+}
+    
+    
